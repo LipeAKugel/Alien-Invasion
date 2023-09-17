@@ -1,3 +1,3 @@
 # Alien Invasion
 
-Little game I made using pygame.
+Simple game project made using Python and Pygame. Made for learning purposes.
